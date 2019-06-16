@@ -1,0 +1,34 @@
+C:\Users\Eness\source\repos\windows forms\20190311_Lecture_WinForms\02_TimerControl\bin\Debug\02_TimerControl.exe.config
+C:\Users\Eness\source\repos\windows forms\20190311_Lecture_WinForms\02_TimerControl\bin\Debug\02_TimerControl.exe
+C:\Users\Eness\source\repos\windows forms\20190311_Lecture_WinForms\02_TimerControl\bin\Debug\02_TimerControl.pdb
+C:\Users\Eness\source\repos\windows forms\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.csprojAssemblyReference.cache
+C:\Users\Eness\source\repos\windows forms\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\_02_TimerControl.Form1.resources
+C:\Users\Eness\source\repos\windows forms\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\_02_TimerControl.Properties.Resources.resources
+C:\Users\Eness\source\repos\windows forms\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.csproj.GenerateResource.cache
+C:\Users\Eness\source\repos\windows forms\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.csproj.CoreCompileInputs.cache
+C:\Users\Eness\source\repos\windows forms\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.exe
+C:\Users\Eness\source\repos\windows forms\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.pdb
+C:\Users\Eness\source\repos\windows forms\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\_02_TimerControl.arabaYarisi.resources
+C:\Users\Eness\source\repos\windows forms\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\_02_TimerControl.bahis.resources
+C:\Users\enes.oruc\Desktop\20190311_Lecture_WinForms\02_TimerControl\bin\Debug\02_TimerControl.exe.config
+C:\Users\enes.oruc\Desktop\20190311_Lecture_WinForms\02_TimerControl\bin\Debug\02_TimerControl.exe
+C:\Users\enes.oruc\Desktop\20190311_Lecture_WinForms\02_TimerControl\bin\Debug\02_TimerControl.pdb
+C:\Users\enes.oruc\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.csprojAssemblyReference.cache
+C:\Users\enes.oruc\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\_02_TimerControl.arabaYarisi.resources
+C:\Users\enes.oruc\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\_02_TimerControl.bahis.resources
+C:\Users\enes.oruc\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\_02_TimerControl.Properties.Resources.resources
+C:\Users\enes.oruc\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.csproj.GenerateResource.cache
+C:\Users\enes.oruc\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.csproj.CoreCompileInputs.cache
+C:\Users\enes.oruc\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.exe
+C:\Users\enes.oruc\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.pdb
+C:\Users\Eness\Desktop\20190311_Lecture_WinForms\02_TimerControl\bin\Debug\02_TimerControl.exe.config
+C:\Users\Eness\Desktop\20190311_Lecture_WinForms\02_TimerControl\bin\Debug\02_TimerControl.exe
+C:\Users\Eness\Desktop\20190311_Lecture_WinForms\02_TimerControl\bin\Debug\02_TimerControl.pdb
+C:\Users\Eness\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.csprojAssemblyReference.cache
+C:\Users\Eness\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\_02_TimerControl.arabaYarisi.resources
+C:\Users\Eness\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\_02_TimerControl.bahis.resources
+C:\Users\Eness\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\_02_TimerControl.Properties.Resources.resources
+C:\Users\Eness\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.csproj.GenerateResource.cache
+C:\Users\Eness\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.csproj.CoreCompileInputs.cache
+C:\Users\Eness\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.exe
+C:\Users\Eness\Desktop\20190311_Lecture_WinForms\02_TimerControl\obj\Debug\02_TimerControl.pdb
